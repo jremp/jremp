@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-:factory: A decade of leadership experience in advanced manufacturing, switching careers in my late twenties.
-:computer: I'm a first year Computer Science student at the University of Manitoba, entering co-op work term in 2024.
-:minidisc: SQL and VBA experience throughout my manufacturing work
+:factory: A decade of leadership experience in advanced manufacturing, switching careers in my late twenties <br>
+:computer: First year Computer Science student at the University of Manitoba, entering co-op work term in 2024 <br>
+:minidisc: SQL and VBA experience throughout my manufacturing work <br>
+:hotsprings: Learning Java
 
 
 
